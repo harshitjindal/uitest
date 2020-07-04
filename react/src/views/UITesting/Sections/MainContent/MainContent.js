@@ -43,7 +43,6 @@ export default class MainContent extends Component {
 						style={{ width: "80%" }}
 						src="https://i0.wp.com/www.irishfilmcritic.com/wp-content/uploads/2019/09/Joker.jpg?resize=1863%2C932&ssl=1"
 					></img>
-					<hr />
 				</div>
 			</div>
 		);
