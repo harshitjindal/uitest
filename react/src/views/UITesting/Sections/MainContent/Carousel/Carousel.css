@@ -1,0 +1,6 @@
+.react-slideshow-container .nav {
+	display: none !important;
+}
+.react-slideshow-container {
+	height: 400px !important;
+}
